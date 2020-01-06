@@ -1,1 +1,1 @@
-# Distributed-Decision-Trees
+# Distributed Computing for Decision Trees
